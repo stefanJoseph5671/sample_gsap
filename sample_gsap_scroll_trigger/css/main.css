@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  height: 300vh;
+  text-align: center;
+}
+
+.box {
+  width: 100px;
+  height: 60px;
+  top: 30px;
+  left: 30px;
+  position: absolute;
+  background-color: blue;
+}
+button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
