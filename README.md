@@ -1,1 +1,1 @@
-# sample_gsap animations
+# A sample of GSAP Animations
